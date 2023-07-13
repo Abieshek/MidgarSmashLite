@@ -1,6 +1,6 @@
-# 1 "lose.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "lose.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "lose.c"
 # 18 "lose.c"
 const unsigned short loseTiles[3936] __attribute__((aligned(4)))=

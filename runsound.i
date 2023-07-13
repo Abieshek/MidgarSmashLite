@@ -1,6 +1,6 @@
-# 1 "runsound.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "runsound.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "runsound.c"
 # 14 "runsound.c"
 const unsigned char runsound[24705] = {

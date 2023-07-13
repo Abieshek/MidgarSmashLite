@@ -1,6 +1,6 @@
-# 1 "instructions.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "instructions.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "instructions.c"
 # 18 "instructions.c"
 const unsigned short instructionsTiles[6880] __attribute__((aligned(4)))=

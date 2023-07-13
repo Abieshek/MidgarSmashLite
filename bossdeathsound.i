@@ -1,6 +1,6 @@
-# 1 "bossdeathsound.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "bossdeathsound.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "bossdeathsound.c"
 # 14 "bossdeathsound.c"
 const unsigned char bossdeathsound[49824] = {

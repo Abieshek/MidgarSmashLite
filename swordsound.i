@@ -1,6 +1,6 @@
-# 1 "swordsound.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "swordsound.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "swordsound.c"
 # 14 "swordsound.c"
 const unsigned char swordsound[9428] = {

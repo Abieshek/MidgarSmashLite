@@ -1,6 +1,6 @@
-# 1 "pause.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "pause.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "pause.c"
 # 18 "pause.c"
 const unsigned short pauseTiles[4032] __attribute__((aligned(4)))=

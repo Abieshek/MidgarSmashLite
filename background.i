@@ -1,6 +1,6 @@
-# 1 "background.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "background.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "background.c"
 # 18 "background.c"
 const unsigned short backgroundTiles[16656] __attribute__((aligned(4)))=

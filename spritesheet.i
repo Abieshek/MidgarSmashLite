@@ -1,6 +1,6 @@
-# 1 "spritesheet.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "spritesheet.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "spritesheet.c"
 # 17 "spritesheet.c"
 const unsigned short spritesheetTiles[16384] __attribute__((aligned(4)))=

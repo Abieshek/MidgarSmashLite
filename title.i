@@ -1,6 +1,6 @@
-# 1 "title.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "title.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "title.c"
 # 18 "title.c"
 const unsigned short titleTiles[6496] __attribute__((aligned(4)))=

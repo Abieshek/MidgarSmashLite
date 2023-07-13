@@ -1,6 +1,6 @@
-# 1 "victorymusic.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "victorymusic.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "victorymusic.c"
 # 14 "victorymusic.c"
 const unsigned char victorymusic[596736] = {

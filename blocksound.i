@@ -1,6 +1,6 @@
-# 1 "blocksound.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "blocksound.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "blocksound.c"
 # 14 "blocksound.c"
 const unsigned char blocksound[2829] = {

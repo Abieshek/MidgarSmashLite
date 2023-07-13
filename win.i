@@ -1,6 +1,6 @@
-# 1 "win.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "win.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "win.c"
 # 18 "win.c"
 const unsigned short winTiles[8224] __attribute__((aligned(4)))=

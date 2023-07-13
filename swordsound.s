@@ -1,4 +1,6 @@
 	.cpu arm7tdmi
+	.arch armv4t
+	.fpu softvfp
 	.eabi_attribute 20, 1
 	.eabi_attribute 21, 1
 	.eabi_attribute 23, 3
@@ -695,4 +697,4 @@ swordsound:
 	.ascii	"\377\000\377\377\377\377\000\376\000\376\000\377\377"
 	.ascii	"\000\376\000\377\377\377\377\377\377\377\377\377\377"
 	.ascii	"\000\377\377\377\377\377\377\377\000\376\000"
-	.ident	"GCC: (devkitARM release 53) 9.1.0"
+	.ident	"GCC: (devkitARM release 61) 13.1.0"

@@ -1,6 +1,6 @@
-# 1 "damagesound.c"
-# 1 "<built-in>"
-# 1 "<command-line>"
+# 0 "damagesound.c"
+# 0 "<built-in>"
+# 0 "<command-line>"
 # 1 "damagesound.c"
 # 14 "damagesound.c"
 const unsigned char damagesound[6132] = {
